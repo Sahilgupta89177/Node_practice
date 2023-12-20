@@ -4,7 +4,8 @@
   "description": "This is my first node program",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build":"netify deploy --prod"
   },
   "author": "",
   "license": "ISC",
